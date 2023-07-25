@@ -50,7 +50,7 @@ The status bar will display messages indicating the progress and completion of t
 ## Footer Links
 GitHub Repository: [GitHub Repo](https://github.com/winsomedesignsautomation)
 
-Instgram: [Instgram](https://github.com/winsomedesignsautomation)
+Instgram: [Instgram](https://www.instagram.com/winsomedesignsonline/)
 
 Pinterest: [Pinterest](https://pinterest.com/winsomedesignsofficial/)
 
